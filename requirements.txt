@@ -1,0 +1,5 @@
+torch
+flask
+pillow
+torchvision
+urllib3
